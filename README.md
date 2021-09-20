@@ -16,9 +16,9 @@
 
 
 <h2> My GitHub Stats <img src='https://media.giphy.com/media/ww9Z3l8wl4szKyRIro/giphy.gif?cid=790b7611d2ccdf49472b8c55671184876114a7a76c39b952&rid=giphy.gif&ct=g' width='30px'></h2>
-<a href="https://github.com/sdclarkelab/github-readme-stats">
+<!-- <a href="https://github.com/sdclarkelab/github-readme-stats">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=sdclarkelab&count_private=true&show_icons=true&theme=dracula" />
-</a>
+</a> -->
 <a href="https://github.com/sdclarkelab/convoychat">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdclarkelab&theme=dracula" />
 </a>
